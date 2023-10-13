@@ -1,3 +1,4 @@
+
 .profile {
   width: 330px;
 }
@@ -9,6 +10,15 @@
 .profile-pic {
   width: 100%;
   border-radius: 165px;
+}
+
+.image-container {
+  display:flex;
+  justify-content: center;
+}
+
+.image {
+  width:450px;
 }
 
 .profile-title {
@@ -23,6 +33,7 @@
 
 .portfolio-body {
   background-color: #d0bfff;
+  font-family: 'Manrope', sans-serif;
 }
 
 .btn {
