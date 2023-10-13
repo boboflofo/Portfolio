@@ -2,6 +2,10 @@
   width: 330px;
 }
 
+.title {
+  margin-right: 58px;
+  padding: 10px;
+}
 .profile-pic {
   width: 100%;
   border-radius: 165px;
@@ -36,5 +40,9 @@
 .resort-island-text {
   font-style:italic;
   color: rgb(35, 136, 136);
+}
+
+.menu-btn {
+  float:left;
 }
 
