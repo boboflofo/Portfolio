@@ -15,7 +15,7 @@ Portfolio page designed to showcase major projects on github and provide for pre
 
 ## Setup/Installation Requirements
 
-* Fork over project from github
+* Fork over project from [github](https://github.com/boboflofo/Portfolio.git)
 * Open git bash and clone directly from forked repo
 * Open directly in a code editor such as VScode
 
@@ -25,7 +25,7 @@ n/a
 
 
 ## License
-
+Contact jonathan91790@yahoo.com for additional issues
 
 
 Copyright (c) _10/13/2023_ _Jonathan Song(s)_
