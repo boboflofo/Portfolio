@@ -17,7 +17,7 @@ Portfolio page designed to showcase major projects on github and provide for pre
 
 * Fork over project from [github](https://github.com/boboflofo/Portfolio.git)
 * This is the [link](https://boboflofo.github.io/Portfolio/) to GitHub pages 
-* Open git bash and clone directly from forked repo
+* Open git bash and clone directly from forked repo using git clone
 * Open directly in a code editor such as VScode
 
 
